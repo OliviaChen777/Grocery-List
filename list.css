@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    
+    font-style: italic ;
+    text-align: center;
+    color: blueviolet;
+   /* display:flex;*/
+    /* justify-content: center; */ 
+   background-color: bisque;
+}
+.heading{
+    background-color: lightpink;font-style: oblique;
+}
+
+
+.list{
+    background-color: lightblue; 
+    padding: 10px;
+    margin: 20px;
+}
+.freezer{
+    background-color:lightgoldenrodyellow;}
+
+  
